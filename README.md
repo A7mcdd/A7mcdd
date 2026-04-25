@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=27AE60&center=true&vCenter=true&width=500&lines=Cyber+Security+Specialist;Ethical+Hacker;Penetration+Tester;Securing+the+Digital+World" alt="Typing SVG" />
+  </a>
+</p>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="60" alt="notion logo"  />
   <img width="12" />
